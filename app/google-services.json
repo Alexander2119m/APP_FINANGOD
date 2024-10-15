@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795004949376",
+    "project_id": "finangod",
+    "storage_bucket": "finangod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795004949376:android:5b2aae546bfc6757c62765",
+        "android_client_info": {
+          "package_name": "com.example.finan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI2EbVhC8EVtXg2qX7O6NHn7ShSgyKTgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
